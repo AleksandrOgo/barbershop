@@ -1,0 +1,69 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Header */
+
+.header {
+  background-color: gray;
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-list {
+}
+.list {
+  list-style: none;
+}
+.header-item {
+}
+.header-link {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.header-link:hover,
+.header-link:focus {
+  color: #ff6c00;
+}
+.link {
+  text-decoration: none;
+}
+.header-telephone {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.header-btn {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.09em;
+  color: #ffffff;
+}
+
+/* Hero */
+
+.hero {
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-link {
+}
+.hero-subtitle {
+}
+.hero-title {
+}
+.title {
+}
+.hero-description {
+}

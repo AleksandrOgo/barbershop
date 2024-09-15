@@ -58,12 +58,15 @@ body {
 .hero-item {
 }
 .hero-link {
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 15px;
+  color: #ff6c00;
 }
 .hero-subtitle {
 }
 .hero-title {
-}
-.title {
 }
 .hero-description {
 }
